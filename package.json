@@ -4,10 +4,7 @@
   "description": "",
   "main": "getRepoList.js",
   "dependencies": {
-    "axios": "^0.18.0",
-    "cross-fetch": "^2.2.3",
-    "node-fetch": "^2.3.0",
-    "request": "^2.88.0"
+    "axios": "^0.18.0"
   },
   "devDependencies": {},
   "scripts": {
